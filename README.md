@@ -6,7 +6,7 @@ Daily Tracker from its name, it is a complete system to monitor, track and follo
 
 ## Rescourses
 
-- [Documentation](https://drive.google.com/drive/folders/1hUi0D-EOahw1yGHVLkSoLXBZWFgUl90M?fbclid=IwAR33SSwhTehAveQtA0g3CfnLoQv033KqsxtFJqt9ueXPEs8F_iOZ0W_wHlU)
+- [Documentation](https://drive.google.com/file/d/1FOsRlRcLei2r8u7vovFJGGmnwb_38bTj/view?usp=sharing)
 - [Presentation](https://drive.google.com/file/d/1hgYHbCoubgKDgfDSqV8sT5xQ0LqQGXUM/view?usp=sharing)
 - [Demo](https://drive.google.com/file/d/1kGVdJF4KCU4C1WBBAI0AVjJl7X4TLu5J/view?usp=sharing)
 - [Screen Record](https://drive.google.com/file/d/1Rg3Z1YcvdK8YwK0-dIfH6SDabQ4tdIKy/view?usp=sharing)
